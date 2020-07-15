@@ -1,0 +1,32 @@
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Develops/gvoze32/latte.layout.latte,file:$HOME/Develops/gvoze32/latte.layout.latte
+Recent URLs[$e]=file:$HOME/Develops/gvoze32/
+detailViewIconSize=0
+
+[LatteSettingsDialog]
+downloadWindowSize=800,550
+windowSize=700,452
+
+[LatteSettingsDialog][TabLayouts]
+columnWidths=55,65,76,0
+sortColumn=3
+sortOrder=0
+
+[PlasmaThemeExtended]
+outlineWidth=1
+
+[ScreenConnectors]
+10=eDP
+
+[UniversalSettings]
+badges3DStyle=false
+canDisableBorders=false
+currentLayout=My Layout
+lastNonAssignedLayout=My Layout
+launchers=
+memoryUsage=0
+metaPressAndHoldEnabled=true
+mouseSensitivity=2
+screenTrackerInterval=2500
+showInfoWindow=true
+version=2

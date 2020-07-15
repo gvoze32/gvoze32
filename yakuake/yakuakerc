@@ -1,0 +1,14 @@
+[Appearance]
+Skin=materia-dark
+SkinInstalledWithKns=true
+
+[DownloadDialog Settings]
+Height 1080=400
+Width 1920=700
+
+[Favorite Profiles]
+Favorites=
+
+[Window]
+Height=30
+Width=50
