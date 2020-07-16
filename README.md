@@ -5,6 +5,4 @@
 - ✨ Pull requests and issues are welcome
 - 📫 Reach me via [Telegram](https://t.me/gvoze32v2)
 
-  <a href="https://github.com/puf17640" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=gvoze32&title_color=333&text_color=777&show_icons=true&icon_color=333" alt="gvoze32's Stats" >
-  </a>
+[![gvoze32's github stats](https://github-readme-stats.vercel.app/api?username=gvoze32&title_color=333&text_color=777&show_icons=true&icon_color=333)](https://github.com/gvoze32)
