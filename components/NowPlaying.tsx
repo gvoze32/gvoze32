@@ -134,7 +134,7 @@ export const Player: React.FC<Props> = ({
           paddingLeft: 4,
         }}
       >
-        <img id="cover" src={cover ?? null} width="48" height="48" />
+        <img id="cover" src={cover ?? null} width="88" height="88" />
         <div
           style={{
             display: "flex",
