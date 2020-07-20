@@ -9,6 +9,8 @@
 - ✨ Pull requests and issues are welcome
 - 📫 Reach me via [Telegram](https://t.me/gvoze32v2)
 
+</br>
+
 <a href="https://now-playing-gvoze32.vercel.app/api/now-playing">
     <img src="https://now-playing-gvoze32.vercel.app/api/now-playing" align="right" width="256" height="100" alt="Now Playing">
 </a>
