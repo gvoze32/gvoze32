@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" height="125px" src="https://media2.giphy.com/media/KztT2c4u8mYYUiMKdJ/giphy.gif" />
 
 - 🔭 Currently working on server management
-- 📌 Learning on campus projects and economics things
+- 📌 Learning on campus project and economic things
 - 📷 Love taking random stuffs with camera
 - ✨ Pull requests and issues are welcome
 - 📫 Reach me via [Telegram](https://t.me/gvoze32v2)
