@@ -17,6 +17,6 @@
 
 [![gvoze32's github stats](https://github-readme-stats.vercel.app/api?username=gvoze32&title_color=333&text_color=777&show_icons=true&icon_color=333&hide_border=true)](https://github.com/gvoze32)
 
-## Latest Blog posts
+### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
