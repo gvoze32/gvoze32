@@ -11,7 +11,6 @@
 
 </br>
 
-<p align="right">**Now Playing** on Spotify...</p>
 <a href="https://now-playing-gvoze32.vercel.app/api/now-playing">
     <img src="https://now-playing-gvoze32.vercel.app/api/now-playing" align="right" width="500" height="64" alt="Now Playing">
 </a>
