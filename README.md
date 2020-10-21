@@ -11,8 +11,9 @@
 
 </br>
 
+<p align="right">**Now Playing** on Spotify...</p>
 <a href="https://now-playing-gvoze32.vercel.app/api/now-playing">
-    <img src="https://now-playing-gvoze32.vercel.app/api/now-playing" align="right" width="265" height="200" alt="Now Playing">
+    <img src="https://now-playing-gvoze32.vercel.app/api/now-playing" align="right" width="500" height="64" alt="Now Playing">
 </a>
 
 [![gvoze32's github stats](https://github-readme-stats.vercel.app/api?username=gvoze32&title_color=333&text_color=777&show_icons=true&icon_color=333&hide_border=true)](https://github.com/gvoze32)
