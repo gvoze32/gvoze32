@@ -5,6 +5,7 @@
 - 📷 Love taking random stuffs with camera
 - ✨ Pull requests and issues are welcome
 - 📫 Reach me via [Telegram](https://t.me/gvoze32v2)
+<br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://now-playing-gvoze32.vercel.app/api/now-playing">
     <img src="https://now-playing-gvoze32.vercel.app/api/now-playing" width="480" height="130" alt="Now Playing">
