@@ -9,7 +9,7 @@
 - ✨ Pull requests and issues are welcome
 <br />
 
-<img align="right" src="https://readme-jokes.vercel.app/api?bgColor=%23FFF&borderColor=%23FFF&textColor=%23000&qColor=%23000&aColor=%23000&codeColor=%23000" width="380" height="200" alt="Jokes Card" />
+<img align="right" src="https://readme-jokes.vercel.app/api?bgColor=%23FFF&borderColor=%23FFF&textColor=%23000&qColor=%23000&aColor=%23000&codeColor=%23000" width="320" height="150" alt="Jokes Card" />
 
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://now-playing-gvoze32.vercel.app/api/now-playing">
     <img src="https://now-playing-gvoze32.vercel.app/api/now-playing" width="480" height="130" alt="Now Playing">
