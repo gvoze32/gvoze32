@@ -12,7 +12,7 @@
 </div></ br></div><img align="right" src="https://readme-jokes.vercel.app/api?bgColor=%23FFF&borderColor=%23FFF&textColor=%23000&qColor=%23000&aColor=%23000&codeColor=%23000" width="320" height="150" alt="Jokes Card" />
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://now-playing2.vercel.app/api/now-playing" width="480" height="130" alt="Now Playing">
+    <img src="https://now-playing3.vercel.app/api/now-playing" width="480" height="130" alt="Now Playing">
 </a>
 
 
