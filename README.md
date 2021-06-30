@@ -19,7 +19,6 @@
 <details>
   <summary><b>My Github Stats</b></summary>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gvoze32&theme=dark&title_color=FF69B4&text_color=777&show_icons=true&icon_color=FF69B4&hide_border=true" alt="gvoze32 Github Stats">
-    <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvoze32&layout=compact&hide_border=true"/>
 </details>
 
 <details>
