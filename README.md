@@ -30,7 +30,7 @@
   <p align="center">
     <i>Let's connect and chat!</i><br><br>
     <a href="https://t.me/gvoze32v2" target="blank"><img align="center" src="https://www.iconsdb.com/icons/download/white/telegram-24.png" alt="gvoze32" height="24" width="24" /></a>
-      </br>
+      </div>
     <a href="https://www.reddit.com/user/gvoze32" target="blank"><img align="center" src="https://www.iconsdb.com/icons/download/white/reddit-24.png" alt="gvoze32" height="24" width="24" /></a>
   </p>
 </details>
