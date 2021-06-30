@@ -9,7 +9,7 @@
 <br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://now-playing3.vercel.app/api/now-playing" width="480" height="130" alt="Now Playing">
+    <img src="https://now-playing3.vercel.app/api/now-playing" alt="Now Playing">
 </a>
 
 
