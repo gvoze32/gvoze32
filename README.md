@@ -1,32 +1,31 @@
-## Hi there, I'm Syafa Adena <img src="https://i.pinimg.com/originals/a9/50/86/a95086c3173ff2dd84dbaa45666a5d60.gif" width="29px"> ![](https://komarev.com/ghpvc/?username=gvoze32&color=FF69B4)
+# Hey, I'm Nate!
 
- <img align="right" alt="GIF" height="125px" src="https://media0.giphy.com/media/Tk80oT8vrGZiH8Uq1u/giphy.gif" />
- 
-- 🔭 Currently working on server management
-- 📌 Learning on campus project and economic things
-- 📷 Love taking random stuffs with camera
-- ✨ Pull requests and issues are welcome
-<br />
+I'm most comfortable in that weird, funky world between design and development—that's where the most fun, creative, boundary-breaking work happens. If you're interested in the work I do, please consider supporting me on GitHub!
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://now-playing3.vercel.app/api/now-playing" width="480" height="130" alt="Now Playing">
-</a>
+<a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
+
+| Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
 
 
-<br />
-<br />
-<br />
-<details>
-  <summary><b>My Github Stats</b></summary>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gvoze32&theme=dark&title_color=FF69B4&text_color=777&show_icons=true&icon_color=FF69B4&hide_border=true" alt="gvoze32 Github Stats">
-</details>
-
-<details>
-  <summary><b>Connect with me</b></summary>
-  <p align="center">
-    <i>Let's connect and chat!</i><br><br>
-    <a href="https://t.me/gvoze32v2" target="blank"><img align="center" src="https://www.iconsdb.com/icons/download/white/telegram-24.png" alt="gvoze32" height="24" width="24" /></a>
-      </div>
-    <a href="https://www.reddit.com/user/gvoze32" target="blank"><img align="center" src="https://www.iconsdb.com/icons/download/white/reddit-24.png" alt="gvoze32" height="24" width="24" /></a>
-  </p>
-</details>
+<table>
+  <thead>
+    <tr>
+      <th>Top Tracks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=2&open"><img src="https://status.nmoo.dev/top-tracks?i=2" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=3&open"><img src="https://status.nmoo.dev/top-tracks?i=3" width="540" height="64"></a></td>
+    </tr>
+  </tbody>
+</table>
