@@ -29,7 +29,7 @@
   <summary><b>Connect with me</b></summary>
   <p align="center">
     <i>Let's connect and chat!</i><br><br>
-    <a href="https://t.me/gvoze32v2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="gvoze32" height="30" width="40" /></a>
+    <a href="https://t.me/gvoze32v2" target="blank"><img align="center" src="https://www.iconsdb.com/icons/download/white/telegram-48.png" alt="gvoze32" height="30" width="40" /></a>
     <a href="https://www.reddit.com/user/gvoze32" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="gvoze32" height="30" width="40" /></a>
   </p>
 </details>
