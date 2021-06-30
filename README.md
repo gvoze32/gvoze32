@@ -1,6 +1,5 @@
 ## Hi there, I'm Syafa Adena <img src="https://i.pinimg.com/originals/a9/50/86/a95086c3173ff2dd84dbaa45666a5d60.gif" width="29px"> ![](https://komarev.com/ghpvc/?username=gvoze32&color=FF69B4)
 
-<img align="right" alt="GIF" height="125px" src="https://media0.giphy.com/media/Tk80oT8vrGZiH8Uq1u/giphy.gif" />
 <img align="right" alt="GIF" height="125px" src="https://media2.giphy.com/media/KztT2c4u8mYYUiMKdJ/giphy.gif" />
 
 - 🔭 Currently working on server management
