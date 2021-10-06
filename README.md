@@ -36,5 +36,5 @@
 <summary><samp>GPG</samp></summary>
  
 ```
-curl -s https://github.com/ammarfaizi2.gpg | gpg --import
+curl -s https://github.com/gvoze32.gpg | gpg --import
 ```
