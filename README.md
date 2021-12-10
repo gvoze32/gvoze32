@@ -4,7 +4,7 @@
  
 - 🔭 Currently working on server management
 - 📌 Learning on campus project and economic things
-- 📷 Love taking random stuffs with camera
+- 📷 Love taking random pics with camera
 - ✨ Pull requests and issues are welcome
 <br />
 
