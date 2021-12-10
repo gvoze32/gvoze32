@@ -2,8 +2,8 @@
 
  <img align="right" alt="GIF" height="125px" src="https://media0.giphy.com/media/Tk80oT8vrGZiH8Uq1u/giphy.gif" />
  
-- 🔭 Currently working on server management
-- 📌 Learning on campus project and economic things
+- 🔭 Currently managing linux server as a hobby
+- 📌 Learning economic things and doing campus projects
 - 📷 Love taking random pics with camera
 - ✨ Pull requests and issues are welcome
 <br />
