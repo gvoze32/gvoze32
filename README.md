@@ -13,7 +13,6 @@
     <img src="https://now-playing3.vercel.app/api/now-playing" alt="Now Playing">
 </a>
 
-
 <br />
 <br />
 <br />
