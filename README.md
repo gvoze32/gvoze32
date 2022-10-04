@@ -20,11 +20,3 @@
   <summary><b>Stats</b></summary>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gvoze32&theme=dark&title_color=FF69B4&text_color=777&show_icons=true&icon_color=FF69B4&hide_border=true" alt="gvoze32 Github Stats">
 </details>
-
-<details>
-  <summary><b>Connect with me</b></summary>
-  <p align="center">
-    <i>Let's connect and chat!</i><br><br>
-    <a href="https://t.me/gvoze32" target="blank"><img align="center" src="https://www.iconsdb.com/icons/download/white/telegram-24.png" alt="gvoze32" height="24" width="24" /></a>
-  </p>
-</details>
