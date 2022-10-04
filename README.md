@@ -28,11 +28,3 @@
     <a href="https://t.me/gvoze32" target="blank"><img align="center" src="https://www.iconsdb.com/icons/download/white/telegram-24.png" alt="gvoze32" height="24" width="24" /></a>
   </p>
 </details>
-
-
-<details align="center">
-<summary><samp>GPG</samp></summary>
- 
-```
-curl -s https://github.com/gvoze32.gpg | gpg --import
-```
