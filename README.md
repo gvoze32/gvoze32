@@ -10,7 +10,7 @@
 <br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://now-playing3.vercel.app/api/now-playing" alt="Now Playing">
+    <img src="https://now-playing3.vercel.app/api/now-playing" alt="Now Playing on Spotify">
 </a>
 
 <br />
