@@ -7,15 +7,3 @@
 - 📷 Love taking random pics with camera
 - ✨ Pull requests and issues are welcome
 <br />
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://now-playing3.vercel.app/api/now-playing" alt="Now Playing on Spotify">
-</a>
-
-<br />
-<br />
-<br />
-<details>
-  <summary><b>Stats</b></summary>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gvoze32&theme=dark&title_color=FF69B4&text_color=777&show_icons=true&icon_color=FF69B4&hide_border=true" alt="gvoze32 Github Stats">
-</details>
